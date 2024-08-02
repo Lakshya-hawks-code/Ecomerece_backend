@@ -1,0 +1,54 @@
+{
+    "title":"Pdf generate in Puppeteer And Handlebars",
+    "users":
+    [
+        {
+        "name":"Lakshya Sharma",
+        "email":"lakshya.sharma9928@gmail.com",
+        "password":"lakshya@123456",
+        "address":"VidhyaDhar Nagar 11, Murlipura,Jaipur"
+    },
+    {
+        "name":"Aditiya Singh",
+        "email":"aditiya884@gmail.com",
+        "password":"aditiya333",
+        "address":"Vashali Nagar 112,Jaipur"
+    },
+    {
+        "name":"Suresh Kumar",
+        "email":"suresh7474@gmail.com",
+        "password":"suresh8844",
+        "address":"Mansrovar extension, Murlipura,Jaipur"
+    },
+    {
+        "name":"Pooja Verma",
+        "email":"poojaa990@gmail.com",
+        "password":"poojaa899",
+        "address":"Naryan Vihar 11, Murlipura,Jaipur"
+    },
+    {
+        "name":"amrinder Singh",
+        "email":"amrinder899@gmail.com",
+        "password":"amrinder990",
+        "address":"jagatpura 113, Murlipura,Jaipur"
+    },
+    {
+        "name":"Amit Singh",
+        "email":"amit884@gmail.com",
+        "password":"amit899",
+        "address":"Niwaru road, Murlipura,Jaipur"
+    },
+    {
+        "name":"Ragini Jain",
+        "email":"ragini933@gmail.com",
+        "password":"ragini984",
+        "address":"Rmaesh Vihar 22, Murlipura,Jaipur"
+    },
+    {
+        "name":"Raghav Verma",
+        "email":"raghav883@gmail.com",
+        "password":"raghav883",
+        "address":"joshi nagar 3883, Murlipura,Jaipur"
+    }
+]
+}
